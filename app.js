@@ -4,6 +4,7 @@ const ftpServer = new FtpSrv({
     username: "111",
     password: "111",
     root: "./",
+    port: 21,
     greeting: ["Hello ", "Looking of somthing ?",]
 });
 
