@@ -1,0 +1,11 @@
+{
+  "name": "ftp_srv",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ftp-srv": "^4.3.1"
+  }
+}
